@@ -2,6 +2,9 @@
   "name": "test",
   "version": "0.0.0",
   "private": true,
+  "description": "Project with express",
+  "repository": "git@github.com:Shein1/obscure-inlet-18565",
+  "author": "sheikh.rohman.20170799@efreitech.net",
   "scripts": {
     "dev": "DEBUG=test:server nodemon ./bin/www",
     "prod": "node ./bin/www"
